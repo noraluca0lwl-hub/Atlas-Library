@@ -1,0 +1,6 @@
+{
+  "id": "archify",
+  "requirements": {
+    "paseo": ">=0.10.3"
+  }
+}
